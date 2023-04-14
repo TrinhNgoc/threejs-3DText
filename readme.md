@@ -1,6 +1,8 @@
 # Three.js Journey
 3D Text built with Three.js
 
+[https://threejs-3-d-text.vercel.app/](https://threejs-3-d-text.vercel.app/)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
