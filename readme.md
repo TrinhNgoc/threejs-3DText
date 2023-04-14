@@ -1,4 +1,5 @@
 # Three.js Journey
+3D Text built with Three.js
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -14,4 +15,3 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-# threejs-3DText
